@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Registrasi Mahasiswa</string>
+    <string-array name="nama_prodi">
+        <item>Sistem Informasi</item>
+        <item>Teknik Sipil</item>
+        <item>Arsitektur</item>
+        <item>Teknik Elektro</item>
+        <item>Teknik Kimia</item>
+        <item>Teknik Mesin</item>
+        <item>Ilmu Hukum</item>
+        <item>Ilmu Hubungan Internasional</item>
+        <item>Ilmu Administrasi Negara</item>
+        <item>Ilmu Komunikasi</item>
+        <item>Psikologi</item>
+        <item>Manajemen</item>
+        <item>Akuntansi</item>
+    </string-array>
+</resources>
